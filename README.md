@@ -9,6 +9,7 @@ It's a simple guessing number game .
 Can you guess correctly on your first try?
 
 **The purpose of the game is to practise DOM and Javascript**
+*Not responsive.
 
 ## Screenshots
 
