@@ -18,3 +18,9 @@ Can you guess correctly on your first try?
 ![sucess](https://user-images.githubusercontent.com/77184432/176582109-71fe3963-481d-4cb3-9e37-74161163cabc.png)
 **Lose the game**
 ![Lose](https://user-images.githubusercontent.com/77184432/176582134-cc8710d6-4465-4521-9ff0-3f69a6a0e5c5.png)
+
+## Deployment/Live Demo
+https://guess-my-number20.netlify.app/
+
+## Screen record
+[guess-my-number-video](https://www.youtube.com/watch?v=rx1xO3BxvwA)
